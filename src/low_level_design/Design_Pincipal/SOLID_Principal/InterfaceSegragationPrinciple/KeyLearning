@@ -1,0 +1,9 @@
+
+Principle: Interface Segregation Principle (ISP)
+Definition: No client should be forced to implement methods it doesn’t use.
+
+Violation: Large interfaces with unrelated methods (e.g., Robot having to eat).
+
+Fix: Split large interfaces into smaller, more specific ones.
+
+Benefit: Better modularity, fewer bugs, easier to maintain/test.

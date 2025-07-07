@@ -1,0 +1,12 @@
+Principle: DRY (Don’t Repeat Yourself)
+Goal: Avoid duplicating logic or knowledge in code
+
+Bad: Copy-paste the same code in multiple places
+Good: Abstract and reuse functionality
+
+Benefits: Less bugs, better maintainability, scalable code
+
+Common Ways to Break DRY
+-Copy-pasting the same logic into different functions
+-Duplicating SQL queries or constants across files
+-Writing similar code blocks with minor changes

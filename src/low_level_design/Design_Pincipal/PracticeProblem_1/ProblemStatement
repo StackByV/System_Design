@@ -1,0 +1,43 @@
+Design a document editor with text/image support, save to file & database, and render documents
+
+Step-by-Step Approach to LLD
+
+Step-1: Clarify Requirements
+Functional Requirements
+-Add text elements
+-Add images
+-Save document (to file & DB)
+-Render document
+
+Non-functional Requirements:
+-Scalable (support large documents)
+-Extensible (support more content types later)
+-Maintainable
+
+Ask clarifying questions like:
+-Should the rendering be to HTML, PDF, or UI component
+-Do we need version history?
+-How are images stored
+
+
+Step-2: Identify Core Components / Classes
+refer UML image 
+
+Step-3: Define Class Responsibilities
+Classs Document
+-Manages a list of Elements (could be text, image, etc.)
+-Can add/remove elements
+
+-Can render itself
+-Can save/load from disk or DB
+
+Class Element Abstract
+Base class/interface for elements that can be rendered
+Class TextElement and ImageElement
+Subclasses with their own render() implementations
+
+Class Persistence
+
+Step-4 Implement
+Step-5 Write test cases
+

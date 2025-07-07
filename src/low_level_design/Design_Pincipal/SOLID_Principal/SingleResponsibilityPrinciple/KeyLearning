@@ -1,0 +1,29 @@
+
+Principle: Single Responsibility Principle (SRP)
+Definition: A class should have only one reason to change.
+
+  Why:
+- Keeps code clean and focused
+- Easier to maintain and test
+- Helps separate concerns
+
+Real-World Analogy:
+  Imagine a restaurant manager who:
+  Takes orders
+  Cooks food
+  Cleans dishes
+  Pays salaries
+If the chef quits, should the whole restaurant close? No — these roles should be separate.
+
+
+  Example (Bad):
+  Class does report creation, saving, and printing — too many roles.
+
+
+  Fix:
+  Split into:
+- ReportGenerator
+- ReportPrinter
+- ReportSaver
+
+  Each class = 1 responsibility = SRP followed.

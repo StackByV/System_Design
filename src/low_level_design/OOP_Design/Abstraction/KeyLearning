@@ -1,0 +1,9 @@
+Definition:
+Hiding unnecessary details and exposing only essential features of an object.
+
+Importance:
+Reduces complexity, enhances code clarity by focusing on what an object does, not how.
+
+Implementation:
+Achieved using abstract classes and interfaces that define a contract without specifying
+full implementation.

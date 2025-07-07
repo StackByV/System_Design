@@ -1,0 +1,15 @@
+
+Principle: Liskov Substitution Principle (LSP)
+Definition: Subtypes must be substitutable for their base types.
+
+Real-World Analogy
+If you replace a CreditCardPayment with a DebitCardPayment, the system should behave properly
+— because both are types of Payment and follow the same rules.
+
+Rule: Don’t override or change behavior in a way that breaks expectations of the base class.
+
+Violation: Ostrich subclass of Bird throws error in fly().
+
+Fix: Separate non-flying birds from flying birds using interfaces.
+
+Benefit: Ensures safe and logical inheritance.

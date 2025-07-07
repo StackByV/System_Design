@@ -1,0 +1,11 @@
+Definition:
+A mechanism where one class inherits properties and behaviors from another class.
+
+Example:
+SavingsAccount and CheckingAccount inherit from BankAccount to reuse common functionality.
+
+Importance:
+Enables code reuse, promotes hierarchical design, and supports extensibility.
+
+Implementation:
+Use inheritance keywords (e.g., extends in Java, : in C++) to define child classes from a parent class.

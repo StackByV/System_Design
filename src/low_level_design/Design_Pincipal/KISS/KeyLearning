@@ -1,0 +1,6 @@
+Principle: KISS (Keep It Simple, Stupid)
+Goal: Avoid overcomplicating your code
+Bad: Complex logic, premature patterns
+Good: Clear, straightforward solutions
+
+Benefits: Less confusion, fewer bugs, faster delivery

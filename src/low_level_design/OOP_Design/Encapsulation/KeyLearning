@@ -1,0 +1,11 @@
+Definition:
+Bundling data and methods into a single unit (class) and restricting direct access to internal details.
+
+Example:
+BankAccount class with private balance and public deposit/withdraw methods.
+
+Importance:
+Protects data integrity, enforces controlled access, and enhances security.
+
+Implementation:
+Use private for data members and public methods (getters/setters) to interact with them.

@@ -1,0 +1,12 @@
+Definition:
+Allows objects of different classes to be treated as instances of a common superclass, with behavior determined by the actual object type.
+
+Example:
+calculateInterest() is defined differently in SavingsAccount and CheckingAccount but called through a common interface.
+
+Importance:
+Promotes flexibility, extensibility, and code maintainability through dynamic method dispatch.
+
+Implementation:
+Overriding: Redefine a method in a subclass.
+Overloading: Same method name with different parameters in the same class.

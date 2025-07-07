@@ -1,0 +1,7 @@
+Class:
+A blueprint/template for creating objects.
+Defines variables (fields) and methods (functions).
+
+Object:
+An instance of a class.
+Created using the new keyword.

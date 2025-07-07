@@ -1,0 +1,6 @@
+Principle: YAGNI (You Aren’t Gonna Need It)
+Goal: Don’t implement functionality until required
+Bad: Coding for future assumptions
+Good: Build only what you need now
+
+Benefits: Less code, fewer bugs, faster development

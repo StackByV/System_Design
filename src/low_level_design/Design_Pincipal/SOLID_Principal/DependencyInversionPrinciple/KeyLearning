@@ -1,0 +1,15 @@
+
+Principle: Dependency Inversion Principle (DIP)
+Definition: High-level and low-level modules should depend on abstractions.
+Goal: Decouple logic from implementation details.
+
+Real-World Analogy
+-A company CEO (high-level) doesn’t instruct individual developers (low-level) directly.
+Instead, a manager (abstraction) relays requirements.
+-The CEO depends only on the manager’s interface; developers depend on the manager
+for directives. Swapping out developers doesn’t affect the CEO’s workflow.
+
+Bad: High-level code directly uses low-level classes.
+Good: Both depend on an interface (abstraction).
+
+Benefit: Flexible, testable, maintainable code.
