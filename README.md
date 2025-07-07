@@ -4,6 +4,17 @@ This repository is a comprehensive guide to System Design, covering both **Low-L
 
 ---
 
+🙌 Acknowledgements
+This repository is a personal learning log and project space built while studying System Design with BossCoder Academy under the guidance of Mr. Pratik.
+
+Special thanks to:
+
+Mr. Pratik, for breaking down complex concepts into clear and practical lessons.
+
+BossCoder Academy, for providing a structured and hands-on approach to mastering system design.
+
+---
+
 ## 📘 Curriculum
 
 ### 🔹 Low-Level Design (LLD)
