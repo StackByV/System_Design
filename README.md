@@ -10,7 +10,7 @@ This repository is a personal learning journey in System Design, inspired by cou
 
 BossCoder Academy — guided by Mr. Pratik
 
-Coder Army — special thanks to Mr. Aditya Tondon for the best LLD playlist on YouTube
+Coder Army — special thanks to Mr. Aditya Tandon for the best LLD playlist on YouTube
 
 Grateful to these mentors and communities for their structured, high-quality content.
 
