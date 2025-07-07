@@ -5,13 +5,14 @@ This repository is a comprehensive guide to System Design, covering both **Low-L
 ---
 
 🙌 Acknowledgements
-This repository is a personal learning log and project space built while studying System Design with BossCoder Academy under the guidance of Mr. Pratik.
 
-Special thanks to:
+This repository is a personal learning journey in System Design, inspired by courses and resources from:
 
-Mr. Pratik, for breaking down complex concepts into clear and practical lessons.
+BossCoder Academy — guided by Mr. Pratik
 
-BossCoder Academy, for providing a structured and hands-on approach to mastering system design.
+Coder Army — special thanks to Mr. Aditya Tondon for the best LLD playlist on YouTube
+
+Grateful to these mentors and communities for their structured, high-quality content.
 
 ---
 
@@ -47,9 +48,10 @@ BossCoder Academy, for providing a structured and hands-on approach to mastering
 
 ## 🔗 Resources
 
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Coder Army](https://www.youtube.com/watch?v=AK0hu0Zxua4&list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT)
 - [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
 - [Low-Level Design Patterns](https://refactoring.guru/design-patterns)
+- [PlantUML](https://plantuml-editor.kkeisuke.com/)
 - [Draw.io for Diagrams](https://draw.io)
 
 ---
